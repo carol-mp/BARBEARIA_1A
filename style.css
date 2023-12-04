@@ -1,8 +1,30 @@
+header {
+    background-color: black;
+    color: white;
+}
+
 body {
     background-color: red;
 }
 
 h1 {
     font-size: 20 px;
+    color: white;
+}
+
+.paragrafo-1 {
+    color: black;
+}
+
+.subtitulo {
+    color: greenyellow;
+}
+
+.listas {
+    color:black;
+}
+
+footer {
+    background-color: black;
     color: white;
 }
